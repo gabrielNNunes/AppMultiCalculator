@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiCalculator</string>
+    <string name="tile_activity_main">Multi Calculator</string>
+    <string name="content_descript_calculator">Calculadora</string>
+    <string name="content_descript_geometric_shapes">Fórmulas para formas geométricas</string>
+    <string name="content_descript_cylinder">Cilindro</string>
+    <string name="content_descript_time_calculation">Calculos de horários</string>
+    <string name="buscaCep">Busca de CEP</string>
+    <string name="info_IMC">Preencha as informações e clique em calcular para saber o IMC</string>
+    <string name="title_imc">Calculo do IMC</string>
+</resources>
